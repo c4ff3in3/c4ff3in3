@@ -1,5 +1,3 @@
-Husband, Father and a blend of Software / Data Engineer.
+Husband, Father and Software / Data Engineer.
 
-I enjoy distributed systems, data tools / platforms and cloud.
-
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,rust,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,rust)](https://skillicons.dev)
