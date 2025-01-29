@@ -1,1 +1,1 @@
-Software Engineer with interest in Data Platforms and Systems Programming
+Software Engineer with interest in Data Platforms
